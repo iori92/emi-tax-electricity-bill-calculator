@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">emi calculator</string>
+    <string name="hint_principal">Principal Amount ₹</string>
+    <string name="hint_interest">Interest rate per Year %</string>
+    <string name="hint_years">How Many Years</string>
+    <string name="hint_emi">EMI ₹</string>
+    <string name="hint_interest_total">Total Interest for Loan ₹</string>
+
+
+    <string name="find">Find your electric bill monthly cost</string>
+</resources>
